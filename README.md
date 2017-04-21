@@ -28,4 +28,4 @@ For more practice in GitHub including learning about branches, try this exercise
 
 1.  This is a test. 
 2.  This is only a test. 
-..* Had this been a real emergency 
+..1.  Had this been a real emergency 
